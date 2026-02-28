@@ -16,11 +16,11 @@
 ## 💻 Tech Stack
 | Category | Tools |
 | :--- | :--- |
-| **Languages** |  |
+| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 | **Frontend** Client-side | |
 | **Backend** Server-side | |
 | **Frameworks** | |
-| **Platforms / Deployments** | https://img.shields.io/badge/github-repo-blue?logo=github https://img.shields.io/badge/github-repo-blue?logo=github |
+| **Platforms / Deployments** |  |
 
 
 
