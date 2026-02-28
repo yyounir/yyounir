@@ -13,6 +13,17 @@
   <li>Tech Intern @ IBM</li>
 </ul>
 
+## 💻 Tech Stack
+| Category | Tools |
+| :--- | :--- |
+| **Languages** |  |
+| **Frontend** Client-side | |
+| **Backend** Server-side | |
+| **Frameworks** | |
+| **Platforms / Deployments** | https://img.shields.io/badge/github-repo-blue?logo=github https://img.shields.io/badge/github-repo-blue?logo=github |
+
+
+
 All my repositories pushed so far range from simple projects to complex ones, feel free to check it out!
 <!--
 **yyounir/yyounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
