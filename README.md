@@ -1,7 +1,19 @@
-## Hi there!👋
+## Nice to meet you! I'm Yasir! 👋
 
-<button>Meow</button>
+## About Me:
+<ul>
+  <li>Current SWE Intern @ RFCUNY</li>
+  <li>Loves developing, designing UX/UI with clean, maintainable code that makes a positive impact on people's lives.</li>
+  <li>Full stack dev enthusiast currently seeking a role in Software/Web Development, IT, and STEM-related roles.</li>
+  <li>Cat-lover🐈</li>
+</ul>
 
+# Previous Relevant Experience
+<ul>
+  <li>Tech Intern @ IBM</li>
+</ul>
+
+All my repositories pushed so far range from simple projects to complex ones, feel free to check it out!
 <!--
 **yyounir/yyounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
