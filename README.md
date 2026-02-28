@@ -1,4 +1,4 @@
-## Nice to meet you! I'm Yasir! 👋
+# Nice to meet you! I'm Yasir! 👋
 
 ## About Me:
 <ul>
@@ -8,7 +8,7 @@
   <li>Cat-lover🐈</li>
 </ul>
 
-# Previous Relevant Experience
+## Previous Relevant Experience
 <ul>
   <li>Tech Intern @ IBM</li>
 </ul>
