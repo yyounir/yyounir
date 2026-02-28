@@ -1,6 +1,6 @@
-# Nice to meet you! I'm Yasir! 👋
+# Ah there you are, nice to meet you! I'm Yasir! 👋
 
-## About Me:
+## 🐈 About Me:
 <ul>
   <li>Current SWE Intern @ RFCUNY</li>
   <li>Loves developing, designing UX/UI with clean, maintainable code that makes a positive impact on people's lives.</li>
@@ -8,7 +8,7 @@
   <li>Cat-lover🐈</li>
 </ul>
 
-## Previous Relevant Experience
+## 💼 Previous Relevant Experience
 <ul>
   <li>Tech Intern @ IBM</li>
 </ul>
