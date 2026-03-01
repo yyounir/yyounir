@@ -8,7 +8,7 @@
   <li>Cat-lover🐈</li>
 </ul>
 
-## 💼 Previous Relevant Experience
+## 💼 Previous Relevant w
 <ul>
   <li>Tech Intern @ IBM</li>
 </ul>
