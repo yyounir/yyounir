@@ -14,9 +14,7 @@
 </ul>
 
 ## 💻 Tech Stack
-| Category | Tools |
-| :--- | :--- |
-| **Languages** | ![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=openjdk&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Languages** | ![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend** Client-side | |
 | **Backend** Server-side | |
 | **Frameworks** | |
