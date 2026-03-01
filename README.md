@@ -18,13 +18,14 @@
 | :--- | :--- |
 | **Languages** | ![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend** Client-side | |
-| **Backend** Server-side | |
+| **Backend** Server-side |  |
 | **Frameworks** | |
 | **Platforms / Deployments** |  |
+| **Other Languages** | ![Pytorch](https://img.shields.io/badge/Pytorch-#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
 
 
 
-All my repositories pushed so far range from simple projects to complex ones, feel free to check it out!
+All my projects/repositories pushed so far range from simple projects to complex ones, feel free to check it out!
 <!--
 **yyounir/yyounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
