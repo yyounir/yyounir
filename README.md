@@ -16,7 +16,7 @@
 ## 💻 Tech Stack
 |||
 | :--- | :--- |
-| **Languages** | ![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjsx&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) |
+| **Languages** | ![Assembly](https://img.shields.io/badge/Assembly-007ACC?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) |
 | **Frontend** Client-side | |
 | **Backend** Server-side |  |
 | **Frameworks** | |
