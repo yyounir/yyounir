@@ -21,7 +21,7 @@
 | **Backend** Server-side |  |
 | **Frameworks** | |
 | **Platforms / Deployments** |  |
-| **Other Languages** | ![Pytorch](https://img.shields.io/badge/PyTorch-#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **Other Languages** | ![PyTorch](https://img.shields.io/badge/PyTorch-#EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
 
 
 
