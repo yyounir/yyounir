@@ -12,7 +12,7 @@
 
 ## 💼 Relevant Experience
 <ul>
-  <li>Software engineer Intern @ Uptown & Boogie Healthy Project</li>
+  <li>Software Engineer Intern @ Uptown & Boogie Healthy Project</li>
   <li>CS Lab Tutor</li>
   <li>CUNY Queens College - Hack Knight Participant (October 2025)</li>
   <li>CS x Colorstack Member</li>
