@@ -2,7 +2,7 @@
 
 ## 📎 About Me
 <ul>
-  <li>Current SWE Intern @ UBHP RFCUNY</li>
+  <li>Prev SWE Intern @ UBHP RFCUNY</li>
   <li>Loves developing, designing UX/UI with clean, maintainable code that makes a positive impact on people's lives.</li>
   <li>Full stack dev enthusiast currently seeking a role in Software/Web Development, IT, and STEM-related roles.</li>
   <li>Computer Science Student in AI & Software Development @ City University of New York.</li>
