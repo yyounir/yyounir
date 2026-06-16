@@ -1,4 +1,7 @@
-<h1 align="center">Yasir Y.</h1>
+<div align="center">
+  <img src="favicon.svg" alt="YY" height="60"/>
+  <h1>Yasir Y.</h1>
+</div>
 
 ## 📎 About Me
 - CS Student @ Brooklyn College
@@ -8,7 +11,11 @@
 - 3 Hackathons | 3 Total Tech Roles
 - Cat-lover🐈
 
+
+  
 ## ⚙️ Tech Stats
+<div align="center">
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark)
@@ -17,12 +24,16 @@
 <a href="https://wakatime.com/@yyounir">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&v=1" alt="WakaTime Stats" />
 </a> -->
+</div>
 
 ## 🚀 Featured Projects
+<div align="center">
+
 [![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=deathtag&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/deathtag)
 [![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=halalfinderai&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/halalfinderai)
 [![Pokesearch](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=pokesearch&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/pokesearch)
 
+</div>
 
 ## 💻 Tech Stack
 |||
@@ -38,13 +49,17 @@
 - Build 3 react projects
 - Project using GMaps API
 
+<div align="center">
 
-## 💬 Contact
+## Contact
+ 
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-002500.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://yyportfolio-xi.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-002500.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://www.linkedin.com/in/yasir-younus-91551a281) [![Gmail](https://img.shields.io/badge/Email-002500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yyproton168@gmail.com)
 
 All my projects/repositories pushed so far range from simple projects to complex ones, feel free to check it out!
 
 ![](https://komarev.com/ghpvc/?username=yyounir&style=flat-square&label=PROFILE+VIEWS&color=002500)
+
+</div>
 <!--
 **yyounir/yyounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
