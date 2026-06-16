@@ -14,7 +14,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark)
 <!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&layout=compact&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=00fa00) -->
 
-## ⚙️ Featured Projects
+## 🚀 Featured Projects
 [![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=deathtag&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/deathtag)
 [![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=halalfinderai&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/halalfinderai)
 [![Pokesearch](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=pokesearch&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/pokesearch)
