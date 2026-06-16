@@ -12,7 +12,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&layout=compact&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=00fa00)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&layout=compact&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
 <!-- [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&v=1)](https://wakatime.com/@yyounir)
 <a href="https://wakatime.com/@yyounir">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&v=1" alt="WakaTime Stats" />
