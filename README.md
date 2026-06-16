@@ -1,38 +1,46 @@
-# Ah there you are, nice to meet you! I'm Yasir! 👋
+<h1 align="center">Yasir Y.</h1>
 
 ## 📎 About Me
-<ul>
-  <li>Prev SWE Intern @ UBHP RFCUNY</li>
-  <li>Loves developing, designing UX/UI with clean, maintainable code that makes a positive impact on people's lives.</li>
-  <li>Full stack dev enthusiast currently seeking a role in Software/Web Development, IT, and STEM-related roles.</li>
-  <li>Computer Science Student in AI @ City University of New York.</li>
-  <li>500+ lines of code shipped to prod</li>
-  <li>Cat-lover🐈</li>
-</ul>
+- CS Student @ Brooklyn College
+- Loves developing, designing games and apps with clean, maintainable code that makes a positive impact on people's lives.
+- Aspiring full stack dev currently seeking a role in Software/Web Development and STEM-related roles.
+- 15K+ lines of code shipped to prod
+- 3 Hackathons | 3 Total Tech Roles
+- Cat-lover🐈
 
-## 💼 Relevant Experience
-<ul>
-  <li>Software Engineer Intern @ Uptown & Boogie Healthy Project</li>
-  <li>CS Lab Tutor</li>
-  <li>CUNY Queens College - Hack Knight Participant (October 2025)</li>
-  <li>CS x Colorstack Member</li>
-  <li>Tech Intern @ IBM</li>
-</ul>
+## ⚙️ Tech Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark)
+<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&layout=compact&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=00fa00) -->
+
+## ⚙️ Featured Projects
+[![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=deathtag&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/deathtag)
+[![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=halalfinderai&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/halalfinderai)
+[![Pokesearch](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=pokesearch&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/pokesearch)
+
 
 ## 💻 Tech Stack
 |||
 | :--- | :--- |
-| **Languages** | ![Assembly](https://img.shields.io/badge/Assembly-%23150458.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/Python-%23150458.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23150458.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23150458.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%23150458.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23150458.svg?style=for-the-badge&logo=javascript&logoColor=white) |
-| **Frameworks / Libraries** | ![PyTorch](https://img.shields.io/badge/PyTorch-%23150458.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23150458.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-%23150458.svg?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-%23150458.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%23150458.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-%23150458.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) |
-| **Tools, Platforms, & Deployments** | ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-%23150458.svg?style=for-the-badge&logo=googlefonts&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23150458.svg?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-%23150458.svg?style=for-the-badge&logo=eclipseide&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-%23150458.svg?style=for-the-badge&logo=font-awesome&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23150458.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23150458.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%23150458.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23150458.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23150458.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-%23150458.svg?style=for-the-badge&logo=cursor&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-002500.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-002500.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-002500.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-002500.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-002500.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-002500.svg?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-002500.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-002500.svg?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Backend** | ![Assembly](https://img.shields.io/badge/Assembly-002500.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Python](https://img.shields.io/badge/Python-002500.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-002500.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-002500.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flask](https://img.shields.io/badge/FLASK-002500.svg?style=for-the-badge&logo=FLASK&logoColor=white) |
+| **Databases** | ![SQL](https://img.shields.io/badge/SQL-002500.svg?style=for-the-badge&logo=SQLite&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-002500.svg?style=for-the-badge&logo=SQLite&logoColor=white) |
+| **Frameworks/Libraries** | ![PyTorch](https://img.shields.io/badge/PyTorch-002500.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-002500.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Java 1.8](https://img.shields.io/badge/Java_1.8_/_Applets-002500.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
+| **Tools/Deployments** |  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-002500.svg?style=for-the-badge&logo=githubcopilot&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-002500.svg?style=for-the-badge&logo=eclipseide&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-002500.svg?style=for-the-badge&logo=googlecolab&logoColor=white) ![Git Bash](https://img.shields.io/badge/git_bash-002500.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-002500.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-002500.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-002500.svg?style=for-the-badge&logo=firebase&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-002500.svg?style=for-the-badge&logo=cursor&logoColor=white) |
+| **Additional Tools** | ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-002500.svg?style=for-the-badge&logo=googlefonts&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-002500.svg?style=for-the-badge&logo=font-awesome&logoColor=white) |
 
-## ✔️ Projects in Progress
+## ✔️ Projects in Progress:
 - Build 3 react projects
+- Project using GMaps API
+
 
 ## 💬 Contact
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-1b09ff.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://yyportfolio-xi.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1b09ff.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://www.linkedin.com/in/yasir-younus-91551a281) [![Gmail](https://img.shields.io/badge/Email-1b09ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yyproton168@icloud.com)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-002500.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://yyportfolio-xi.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-002500.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://www.linkedin.com/in/yasir-younus-91551a281) [![Gmail](https://img.shields.io/badge/Email-002500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yyproton168@icloud.com)
 
 All my projects/repositories pushed so far range from simple projects to complex ones, feel free to check it out!
+
+![](https://komarev.com/ghpvc/?username=yyounir&style=flat-square&label=PROFILE+VIEWS&color=002500)
 <!--
 **yyounir/yyounir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
