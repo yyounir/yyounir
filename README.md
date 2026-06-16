@@ -12,7 +12,11 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=chartreuse-dark)
-<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&layout=compact&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=00fa00) -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&layout=compact&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=00fa00)
+<!-- [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&v=1)](https://wakatime.com/@yyounir)
+<a href="https://wakatime.com/@yyounir">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&v=1" alt="WakaTime Stats" />
+</a> -->
 
 ## 🚀 Featured Projects
 [![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=deathtag&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/deathtag)
@@ -36,7 +40,7 @@
 
 
 ## 💬 Contact
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-002500.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://yyportfolio-xi.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-002500.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://www.linkedin.com/in/yasir-younus-91551a281) [![Gmail](https://img.shields.io/badge/Email-002500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yyproton168@icloud.com)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-002500.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://yyportfolio-xi.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-002500.svg?style=for-the-badge&logo=instatus&logoColor=white)](https://www.linkedin.com/in/yasir-younus-91551a281) [![Gmail](https://img.shields.io/badge/Email-002500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yyproton168@gmail.com)
 
 All my projects/repositories pushed so far range from simple projects to complex ones, feel free to check it out!
 
