@@ -16,14 +16,10 @@
 ## ⚙️ Tech Stats
 <div align="center">
 
-![Your GitHub stats (Updates every 24 houra) ](https://github-readme-stats.vercel.app/api?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
-![Top Languages (Updates every 144 hrs / 6 days)](https://github-readme-stats.vercel.app/api/top-langs/?username=yyounir&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=yyounir&layout=donut&langs_count=20&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api/top-langs?username=yyounir&layout=donut&langs_count=20&theme=chartreuse-dark)
 ![GitHub Streak (Updates Every 24 Hours) ](https://github-readme-streak-stats.herokuapp.com/?user=yyounir&theme=chartreuse-dark)
-![WakaTime Stats (Updates typically every 4 hours, based on a default cache maximum age of 14,400 seconds.)](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&layout=compact&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd)
-<!-- [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&v=1)](https://wakatime.com/@yyounir)
-<a href="https://wakatime.com/@yyounir">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yyounir&v=1" alt="WakaTime Stats" />
-</a> -->
+[![Coding Activity (Updates typically every 4 hours, based on a default cache maximum age of 14,400 seconds.)](https://github-stats-extended.vercel.app/api/wakatime?username=yyounir&layout=compact&custom_title=Coding%20Activity&theme=chartreuse-dark)](https://wakatime.com/@yyounir)
 ### Total Coding Activity
 [![wakatime](https://wakatime.com/badge/user/11bf52b4-78d9-4e67-93a6-d64048949c55.svg?color=0f1418&labelColor=00fa00)](https://wakatime.com/@11bf52b4-78d9-4e67-93a6-d64048949c55)
 
