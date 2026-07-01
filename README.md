@@ -23,6 +23,9 @@
 ### Total Coding Activity
 [![wakatime](https://wakatime.com/badge/user/11bf52b4-78d9-4e67-93a6-d64048949c55.svg?color=0f1418&labelColor=00fa00)](https://wakatime.com/@11bf52b4-78d9-4e67-93a6-d64048949c55)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 ## 🚀 Featured Projects
