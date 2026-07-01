@@ -4,7 +4,7 @@
 </div>
 
 ## 📎 About Me
-- CS Student @ Brooklyn College
+- Incoming CS Student @ Brooklyn College
 - Loves developing, designing games and apps with clean, maintainable code that makes a positive impact on people's lives.
 - Aspiring full stack dev currently seeking a role in Software/Web Development and STEM-related roles.
 - 15K+ lines of code shipped to prod
