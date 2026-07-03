@@ -31,8 +31,9 @@
 ## 🚀 Featured Projects
 <div align="center">
 
+[![AI Resume Reviewer](https://github-stats-extended.vercel.app/api/pin?username=yyounir&repo=yyounir/ai_resume_reviewer&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/ai_resume_reviewer)
 [![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=deathtag&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/deathtag)
-[![DeathTag](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=halalfinderai&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/halalfinderai)
+[![HalalFinder AI](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=halalfinderai&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/halalfinderai)
 [![Pokesearch](https://github-readme-stats.vercel.app/api/pin/?username=yyounir&repo=pokesearch&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/pokesearch)
 
 </div>
