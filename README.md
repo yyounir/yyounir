@@ -56,7 +56,6 @@
 - AI Resume Reviewer
 - Pharm Cards - Medicine Flashcards to memorize
   - Main use: testing js code to read on text files
-- Build 3 react projects
 - Project using GMaps API
 
 <div align="center">
