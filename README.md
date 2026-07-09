@@ -16,8 +16,11 @@
 ## ⚙️ Tech Stats
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-iota-eight-74.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-readme-stats-iota-eight-74.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
-![GitHub Streak (Updates Every 24 Hours) ](https://github-readme-streak-stats-three-liart.vercel.app/?user=yyounir&theme=chartreuse-dark)
+<!-- [![GitHub Stats](https://github-readme-stats-iota-eight-74.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-readme-stats-iota-eight-74.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+![GitHub Streak (Updates Every 24 Hours) ](https://github-readme-streak-stats-three-liart.vercel.app/?user=yyounir&theme=chartreuse-dark -->
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+![GitHub Streak (Updates Every 24 Hours) ](https://github-readme-streak-stats.herokuapp.com/?user=yyounir&theme=chartreuse-dark)
 
 [![Coding Activity (Updates typically every 4 hours, based on a default cache maximum age of 14,400 seconds.)](https://github-readme-stats-iota-eight-74.vercel.app/api/wakatime?username=yyounir&layout=compact&custom_title=Coding%20Activity&theme=chartreuse-dark)](https://wakatime.com/@yyounir)
 
