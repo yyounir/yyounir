@@ -35,7 +35,8 @@
 ## 🚀 Featured Projects
 <div align="center">
 
-[![DeathTag](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Resume.GPT&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/Resume.GPT)
+[![Ask FileBot - RAG](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Ask_FileBot&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/Ask_FileBot)
+[![Resume.GPT](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Resume.GPT&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/Resume.GPT)
 [![DeathTag](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=deathtag&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/deathtag)
 [![HalalFinder AI](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=halalfinderai&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/halalfinderai)
 [![Pokesearch](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=pokesearch&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&)](https://github.com/yyounir/pokesearch)
