@@ -6,7 +6,7 @@
 ## 📎 About Me
 - Incoming CS Student @ Brooklyn College
 - Loves developing, designing games and apps with clean, maintainable code that makes a positive impact on people's lives.
-- Aspiring full stack dev currently seeking a role in Software/Web Development and STEM-related roles.
+- Motivated full stack dev currently seeking a role in Software/Web Development and STEM-related roles.
 - 15K+ lines of code shipped to prod
 - 3 Hackathons | 3 Total Tech Roles
 - Cat-lover🐈
