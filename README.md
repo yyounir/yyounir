@@ -45,7 +45,7 @@
 
 </div>
 
-## 💻 Tech Stack
+## 💻 Tech Chicken Stack
 |||
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-002500.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-002500.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-002500.svg?style=for-the-badge&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-002500.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-002500.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-002500.svg?style=for-the-badge&logo=react&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwind%20css-002500.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-002500.svg?style=for-the-badge&logo=typescript&logoColor=white) |
@@ -56,6 +56,7 @@
 | **Additional Tools** | ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-002500.svg?style=for-the-badge&logo=googlefonts&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-002500.svg?style=for-the-badge&logo=font-awesome&logoColor=white) |
 
 ## ✔️ Projects in Progress:
+- Currently learning C
 - AI Resume Reviewer
 - Pharm Cards - Medicine Flashcards to memorize
   - Main use: testing js code to read on text files
