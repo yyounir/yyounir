@@ -56,7 +56,7 @@
 | **Additional Tools** | ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-002500.svg?style=for-the-badge&logo=googlefonts&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-002500.svg?style=for-the-badge&logo=font-awesome&logoColor=white) |
 
 ## ✔️ Projects in Progress:
-- Currently learning C
+- Currently learning C, R, Go
 - AI Resume Reviewer
 - Pharm Cards - Medicine Flashcards to memorize
   - Main use: testing js code to read on text files
