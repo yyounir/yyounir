@@ -5,7 +5,7 @@
 
 ## 📎 About Me
 - CS @ Brooklyn College
-- Loves developing, designing games and apps with clean, maintainable code that makes a positive impact on people's lives.
+- Self-taught developer in Python, Java, JavaScript, C, C++, C#, and web development tools.
 - Worked on real production software, stabilized dashboard, and provided cross-platform accessibility for a non-profit at UBHP.
 - Cat-lover🐈
   
