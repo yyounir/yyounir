@@ -4,7 +4,7 @@
 </div>
 
 ## 📎 About Me
-- CS @ Brooklyn College
+- CS Graduate
 - Self-taught developer in Python, Java, JavaScript, C, C++, C#, and web development tools.
 - Worked on real production software, stabilized dashboard, and provided cross-platform accessibility for a non-profit at UBHP.
 - Cat-lover🐈
