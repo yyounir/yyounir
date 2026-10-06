@@ -42,8 +42,6 @@
 </div>
 
 ## 💻 Tech Stack
-
-<div align="center">
   
 ### Languages
 ![Python](https://img.shields.io/badge/Python-002500.svg?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-002500.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-002500.svg?style=flat&logo=javascript&logoColor=white) ![C++](https://img.shields.io/badge/C++-002500.svg?style=flat&logo=Cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-002500.svg?style=flat&logo=C&logoColor=white) ![C#](https://img.shields.io/badge/C%23-002500.svg?style=flat&logo=c&logoColor=white)
@@ -69,7 +67,6 @@
 ### Additional Tools
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-002500.svg?style=flat&logo=googlefonts&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-002500.svg?style=flat&logo=font-awesome&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-002500.svg?style=flat&logo=bootstrap&logoColor=white)
 
-</div>
 <div align="center">
 
 ## Contact
