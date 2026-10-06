@@ -13,14 +13,14 @@
 <div align="center">
 
 <!-- [![GitHub Stats](https://github-readme-stats-iota-eight-74.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-readme-stats-iota-eight-74.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark) -->
-![GitHub Streak (Updates Every 24 Hours) ](https://github-readme-streak-stats-three-liart.vercel.app/?user=yyounir&theme=chartreuse-dark&hide_border=true)
+![GitHub Streak (Updates Every 24 Hours) ](https://github-readme-streak-stats-three-liart.vercel.app/?user=yyounir&theme=chartreuse-dark&hide_border=true&border_radius=30)
 
 <!-- ![GitHub Streak (Updates Every 24 Hours) ](https://github-readme-streak-stats.herokuapp.com/?user=yyounir&theme=chartreuse-dark) -->
 
 <!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](https://github-stats-extended.vercel.app/api?username=yyounir&custom_title=GitHub%20Stats&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 ![GitHub Streak (Updates Every 24 Hours) ](https://github-readme-streak-stats.herokuapp.com/?user=yyounir&theme=chartreuse-dark) -->
 
-[![Coding Activity (Updates typically every 4 hours, based on a default cache maximum age of 14,400 seconds.)](https://github-readme-stats-iota-eight-74.vercel.app/api/wakatime?username=yyounir&layout=compact&custom_title=Coding%20Activity&theme=chartreuse-dark&hide_border=true)](https://wakatime.com/@yyounir)
+[![Coding Activity (Updates typically every 4 hours, based on a default cache maximum age of 14,400 seconds.)](https://github-readme-stats-iota-eight-74.vercel.app/api/wakatime?username=yyounir&layout=compact&custom_title=Coding%20Activity&theme=chartreuse-dark&hide_border=true&border_radius=30)](https://wakatime.com/@yyounir)
 
 ### Total Coding Activity
 [![wakatime](https://wakatime.com/badge/user/11bf52b4-78d9-4e67-93a6-d64048949c55.svg?color=0f1418&labelColor=00fa00)](https://wakatime.com/@11bf52b4-78d9-4e67-93a6-d64048949c55)
@@ -33,11 +33,11 @@
 ## 🚀 Featured Projects
 <div align="center">
 
-[![Ask FileBot - RAG](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Ask_FileBot&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true)](https://github.com/yyounir/Ask_FileBot)
-[![Resume.GPT](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Resume.GPT&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true)](https://github.com/yyounir/Resume.GPT)
-[![DeathTag](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=deathtag&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true)](https://github.com/yyounir/deathtag)
-[![HalalFinder AI](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=halalfinderai&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true)](https://github.com/yyounir/halalfinderai)
-[![Pokesearch](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=pokesearch&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true)](https://github.com/yyounir/pokesearch)
+[![Ask FileBot - RAG](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Ask_FileBot&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30)](https://github.com/yyounir/Ask_FileBot)
+[![Resume.GPT](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Resume.GPT&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30)](https://github.com/yyounir/Resume.GPT)
+[![DeathTag](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=deathtag&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30)](https://github.com/yyounir/deathtag)
+[![HalalFinder AI](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=halalfinderai&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30)](https://github.com/yyounir/halalfinderai)
+[![Pokesearch](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=pokesearch&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30)](https://github.com/yyounir/pokesearch)
 
 </div>
 
