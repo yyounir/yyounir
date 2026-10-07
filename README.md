@@ -64,6 +64,9 @@
 ### Tools/Deployments
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-002500.svg?style=flat&logo=githubcopilot&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-002500.svg?style=flat&logo=eclipseide&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-002500.svg?style=flat&logo=googlecolab&logoColor=white) ![Git Bash](https://img.shields.io/badge/Git_Bash-002500.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-002500.svg?style=flat&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-002500.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-002500.svg?style=flat&logo=firebase&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-002500.svg?style=flat&logo=cursor&logoColor=white) ![Clion](https://img.shields.io/badge/Clion-002500.svg?style=flat&logo=Clion&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-002500.svg?style=flat&logo=PyCharm&logoColor=white)
 
+### AI Tools
+![Github Copilot](https://img.shields.io/badge/Github%20Copilot-002500.svg?style=flat&logo=githubcopilot&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-002500.svg?style=flat&logo=claude&logoColor=white)
+
 ### Additional Tools
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-002500.svg?style=flat&logo=googlefonts&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-002500.svg?style=flat&logo=font-awesome&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-002500.svg?style=flat&logo=bootstrap&logoColor=white)
 
