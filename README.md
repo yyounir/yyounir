@@ -75,7 +75,8 @@
 
 All my projects/repositories pushed so far range from simple projects to complex ones, feel free to check it out!
 
-![](https://komarev.com/ghpvc/?username=yyounir&style=flat-square&label=PROFILE+VIEWS&color=002500)
+![](https://komarev.com/ghpvc/?username=yyounir&style=flat&color=002500&labelColor=002500)
+
 
 </div>
 <!--
