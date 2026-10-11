@@ -6,6 +6,7 @@
 ## 📎 About Me
 - CS Graduate
 - Self-taught developer in Python, Java, JavaScript, C, C++, C#, and web development tools.
+- Focused on Go
 - Worked on real production software, stabilized dashboard, and provided cross-platform accessibility for a non-profit at UBHP.
 - Cat-lover🐈
   
