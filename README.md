@@ -50,6 +50,7 @@
 ![C++](https://img.shields.io/badge/C++-002500.svg?style=flat&logo=Cplusplus&logoColor=white) 
 ![C](https://img.shields.io/badge/C-002500.svg?style=flat&logo=C&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-002500.svg?style=flat&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Typescript-002500.svg?style=flat&logo=typescript&logoColor=white)
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-002500.svg?style=flat&logo=html5&logoColor=white) 
@@ -57,7 +58,6 @@
 ![Next.js](https://img.shields.io/badge/Next.js-002500.svg?style=flat&logo=nextdotjs&logoColor=white) 
 ![React](https://img.shields.io/badge/React-002500.svg?style=flat&logo=react&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-002500.svg?style=flat&logo=tailwindcss&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/Typescript-002500.svg?style=flat&logo=typescript&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-002500.svg?style=flat&logo=nextdotjs&logoColor=white) 
@@ -69,6 +69,8 @@
 ![SQL](https://img.shields.io/badge/SQL-002500.svg?style=flat&logo=SQLite&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-002500.svg?style=flat&logo=SQLite&logoColor=white) 
 ![QDrant](https://img.shields.io/badge/QDrant-002500.svg?style=flat&logo=QDrant&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002500.svg?style=flat&logo=PostgreSQL&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-002500.svg?style=flat&logo=Prisma&logoColor=white)
 
 ### Graphical User Interface (GUI)
 ![Java 1.8 Applets](https://img.shields.io/badge/Java_1.8_/_Applets-002500.svg?style=flat&logo=openjdk&logoColor=white) 
