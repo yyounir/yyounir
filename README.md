@@ -61,7 +61,7 @@
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-002500.svg?style=flat&logo=nextdotjs&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-002500.svg?style=flat&logo=Express&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-002500.svg?style=flat&logo=Express&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-002500.svg?style=flat&logo=FLASK&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-002500.svg?style=flat&logo=FastAPI&logoColor=white)
 
