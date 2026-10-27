@@ -93,7 +93,6 @@
 ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-002500.svg?style=flat&logo=githubactions&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/Vercel-002500.svg?style=flat&logo=vercel&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-002500.svg?style=flat&logo=firebase&logoColor=white) 
-![Cursor](https://img.shields.io/badge/Cursor-002500.svg?style=flat&logo=cursor&logoColor=white) 
 ![Clion](https://img.shields.io/badge/Clion-002500.svg?style=flat&logo=Clion&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/PyCharm-002500.svg?style=flat&logo=PyCharm&logoColor=white) 
 ![WebStorm](https://img.shields.io/badge/WebStorm-002500.svg?style=flat&logo=WebStorm&logoColor=white) 
@@ -101,6 +100,7 @@
 
 ### AI Tools
 ![Github Copilot](https://img.shields.io/badge/Github%20Copilot-002500.svg?style=flat&logo=githubcopilot&logoColor=white) 
+![Cursor](https://img.shields.io/badge/Cursor-002500.svg?style=flat&logo=cursor&logoColor=white) 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-002500.svg?style=flat&logo=claude&logoColor=white)
 
 ### Additional Tools
