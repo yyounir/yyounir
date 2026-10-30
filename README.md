@@ -7,7 +7,7 @@
 - Incoming MSCS @ Brooklyn
 - Self-taught developer in Python, Java, JavaScript, C, C++, C#, and web development tools.
 - Worked on real production software, stabilized dashboard, and provided cross-platform accessibility for a non-profit at UBHP.
-- Focusing on React Native, Go, SQL databases, and TypeScript
+- Focusing on TypeScript, React Native, Go, and SQL databases
 - Cat-lover🐈
   
 ## ⚙️ Tech Stats
