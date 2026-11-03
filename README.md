@@ -72,6 +72,7 @@
 ![QDrant](https://img.shields.io/badge/QDrant-002500.svg?style=flat&logo=QDrant&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-002500.svg?style=flat&logo=PostgreSQL&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-002500.svg?style=flat&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-002500.svg?style=flat&logo=Supabase&logoColor=white)
 
 ### Graphical User Interface (GUI)
 ![Java 1.8 Applets](https://img.shields.io/badge/Java_1.8_/_Applets-002500.svg?style=flat&logo=openjdk&logoColor=white) 
