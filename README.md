@@ -103,7 +103,7 @@
 ![Github Copilot](https://img.shields.io/badge/Github%20Copilot-002500.svg?style=flat&logo=githubcopilot&logoColor=white) 
 ![Cursor](https://img.shields.io/badge/Cursor-002500.svg?style=flat&logo=cursor&logoColor=white) 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-002500.svg?style=flat&logo=claude&logoColor=white)
-![RAG](https://img.shields.io/badge/Github%20RAG-002500.svg?style=flat&logo=githubcopilot&logoColor=white) 
+![Kiro](https://img.shields.io/badge/Kiro-002500.svg?style=flat&logo=claude&logoColor=white)
 
 ### Additional Tools
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-002500.svg?style=flat&logo=googlefonts&logoColor=white) 
