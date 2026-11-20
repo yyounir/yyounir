@@ -7,7 +7,7 @@
 - Incoming MSCS @ Brooklyn
 - Self-taught developer in Python, Java, JavaScript, C, C++, and C#.
 - Worked on real production software, stabilized dashboard, and provided cross-platform accessibility for a non-profit at Uptown & Boogie.
-- Focused on TypeScript & Full Stack Engineering, with interests in React Native, Next.js, and Android development
+- Focused on TypeScript & Full Stack Engineering, with interests in React Native, Next.js, RAG, and Android development
 - Cat-lover🐈
   
 ## ⚙️ Tech Stats
