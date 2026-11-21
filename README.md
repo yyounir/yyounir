@@ -8,7 +8,7 @@
 - Self-taught developer in Python, Java, JavaScript, C, C++, and C#.
 - Worked on real production software, stabilized dashboard, and provided cross-platform accessibility for a non-profit at Uptown & Boogie.
 - Automated payment workflows, reaching greater productivity at IBM
-- Focused on TypeScript & Full Stack Engineering, with interests in React Native, Next.js, RAG, and Android development
+- Focused on TypeScript, RAG, Mobile App Development, and Full Stack Engineering
 - Cat-lover🐈
   
 ## ⚙️ Tech Stats
