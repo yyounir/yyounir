@@ -36,7 +36,6 @@
 <div align="center">
 
 
-[![Phantom.js](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Phantom.js&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30)](https://github.com/yyounir/Phantom.js)
 [![Agentic Music Recommender](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Agentic-Music-Recommender&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30)](https://github.com/yyounir/Agentic-Music-Recommender)
 [![Syntactics](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Syntactics&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30&v=1)](https://github.com/yyounir/Syntactics)
 [![Resume.GPT](https://github-readme-stats-iota-eight-74.vercel.app/api/pin/?username=yyounir&repo=Resume.GPT&bg_color=0f1418&title_color=00fa00&icon_color=00fa00&text_color=cdffcd&hide_border=true&border_radius=30)](https://github.com/yyounir/Resume.GPT)
